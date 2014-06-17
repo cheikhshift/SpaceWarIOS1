@@ -1,0 +1,51 @@
+//
+//  cosmosViewController.m
+//  Starship I
+//
+//  Created by user on 6/17/14.
+//  Copyright (c) 2014 My World Entertainment LLC. All rights reserved.
+//
+
+#import "cosmosViewController.h"
+#import "cosmosMyScene.h"
+
+@implementation cosmosViewController
+
+- (void)viewDidLoad
+{
+    [super viewDidLoad];
+
+    // Configure the view.
+    SKView * skView = (SKView *)self.view;
+    skView.showsFPS = YES;
+    skView.showsNodeCount = YES;
+    
+    // Create and configure the scene.
+    SKScene * scene = [cosmosMyScene sceneWithSize:skView.bounds.size];
+    scene.scaleMode = SKSceneScaleModeAspectFill;
+    
+    // Present the scene.
+    [skView presentScene:scene];
+}
+
+- (BOOL)shouldAutorotate
+{
+    return YES;
+}
+
+- (NSUInteger)supportedInterfaceOrientations
+{
+    if ([[UIDevice currentDevice] userInterfaceIdiom] == UIUserInterfaceIdiomPhone) {
+        return UIInterfaceOrientationMaskAllButUpsideDown;
+    } else {
+        return UIInterfaceOrientationMaskAll;
+    }
+}
+
+- (void)didReceiveMemoryWarning
+{
+    [super didReceiveMemoryWarning];
+    // Release any cached data, images, etc that aren't in use.
+}
+
+@end
