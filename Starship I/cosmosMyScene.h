@@ -7,6 +7,8 @@
 //
 
 #import <SpriteKit/SpriteKit.h>
+#import "cosmosPAUSE.h"
+#import "levelTransition.h"
 
 @interface cosmosMyScene : SKScene
 

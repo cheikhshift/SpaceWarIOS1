@@ -24,6 +24,180 @@
 		CE9166471950AAB800222C71 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE9166221950AAB800222C71 /* UIKit.framework */; };
 		CE91664F1950AAB800222C71 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = CE91664D1950AAB800222C71 /* InfoPlist.strings */; };
 		CE9166511950AAB800222C71 /* Starship_ITests.m in Sources */ = {isa = PBXBuildFile; fileRef = CE9166501950AAB800222C71 /* Starship_ITests.m */; };
+		CE9166841950AB4A00222C71 /* backgroundscc1.png in Resources */ = {isa = PBXBuildFile; fileRef = CE91665C1950AB4900222C71 /* backgroundscc1.png */; };
+		CE9166851950AB4A00222C71 /* planetoo1.png in Resources */ = {isa = PBXBuildFile; fileRef = CE91665D1950AB4900222C71 /* planetoo1.png */; };
+		CE9166861950AB4A00222C71 /* Thumbs.db in Resources */ = {isa = PBXBuildFile; fileRef = CE91665E1950AB4900222C71 /* Thumbs.db */; };
+		CE9166871950AB4A00222C71 /* background 10.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166601950AB4900222C71 /* background 10.png */; };
+		CE9166881950AB4A00222C71 /* Planet 10.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166611950AB4900222C71 /* Planet 10.png */; };
+		CE9166891950AB4A00222C71 /* Thumbs.db in Resources */ = {isa = PBXBuildFile; fileRef = CE9166621950AB4900222C71 /* Thumbs.db */; };
+		CE91668A1950AB4A00222C71 /* background 2.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166641950AB4900222C71 /* background 2.png */; };
+		CE91668B1950AB4A00222C71 /* Planet 2.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166651950AB4900222C71 /* Planet 2.png */; };
+		CE91668C1950AB4A00222C71 /* Thumbs.db in Resources */ = {isa = PBXBuildFile; fileRef = CE9166661950AB4900222C71 /* Thumbs.db */; };
+		CE91668D1950AB4A00222C71 /* background 3.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166681950AB4900222C71 /* background 3.png */; };
+		CE91668E1950AB4A00222C71 /* planet 3.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166691950AB4900222C71 /* planet 3.png */; };
+		CE91668F1950AB4A00222C71 /* Thumbs.db in Resources */ = {isa = PBXBuildFile; fileRef = CE91666A1950AB4900222C71 /* Thumbs.db */; };
+		CE9166901950AB4A00222C71 /* background 4.png in Resources */ = {isa = PBXBuildFile; fileRef = CE91666C1950AB4900222C71 /* background 4.png */; };
+		CE9166911950AB4A00222C71 /* Planet 4.png in Resources */ = {isa = PBXBuildFile; fileRef = CE91666D1950AB4900222C71 /* Planet 4.png */; };
+		CE9166921950AB4A00222C71 /* Thumbs.db in Resources */ = {isa = PBXBuildFile; fileRef = CE91666E1950AB4900222C71 /* Thumbs.db */; };
+		CE9166931950AB4A00222C71 /* background 5.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166701950AB4900222C71 /* background 5.png */; };
+		CE9166941950AB4A00222C71 /* Planet 5.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166711950AB4900222C71 /* Planet 5.png */; };
+		CE9166951950AB4A00222C71 /* Thumbs.db in Resources */ = {isa = PBXBuildFile; fileRef = CE9166721950AB4900222C71 /* Thumbs.db */; };
+		CE9166961950AB4A00222C71 /* background 6.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166741950AB4900222C71 /* background 6.png */; };
+		CE9166971950AB4A00222C71 /* Planet 6.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166751950AB4900222C71 /* Planet 6.png */; };
+		CE9166981950AB4A00222C71 /* Thumbs.db in Resources */ = {isa = PBXBuildFile; fileRef = CE9166761950AB4900222C71 /* Thumbs.db */; };
+		CE9166991950AB4A00222C71 /* background 7.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166781950AB4900222C71 /* background 7.png */; };
+		CE91669A1950AB4A00222C71 /* Planet 7.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166791950AB4900222C71 /* Planet 7.png */; };
+		CE91669B1950AB4A00222C71 /* Thumbs.db in Resources */ = {isa = PBXBuildFile; fileRef = CE91667A1950AB4900222C71 /* Thumbs.db */; };
+		CE91669C1950AB4A00222C71 /* background 8.png in Resources */ = {isa = PBXBuildFile; fileRef = CE91667C1950AB4900222C71 /* background 8.png */; };
+		CE91669D1950AB4A00222C71 /* Planet 8.png in Resources */ = {isa = PBXBuildFile; fileRef = CE91667D1950AB4900222C71 /* Planet 8.png */; };
+		CE91669E1950AB4A00222C71 /* Thumbs.db in Resources */ = {isa = PBXBuildFile; fileRef = CE91667E1950AB4900222C71 /* Thumbs.db */; };
+		CE91669F1950AB4A00222C71 /* background 9.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166801950AB4900222C71 /* background 9.png */; };
+		CE9166A01950AB4A00222C71 /* Planet 9.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166811950AB4900222C71 /* Planet 9.png */; };
+		CE9166A11950AB4A00222C71 /* Thumbs.db in Resources */ = {isa = PBXBuildFile; fileRef = CE9166821950AB4900222C71 /* Thumbs.db */; };
+		CE9166A21950AB4A00222C71 /* Thumbs.db in Resources */ = {isa = PBXBuildFile; fileRef = CE9166831950AB4900222C71 /* Thumbs.db */; };
+		CE9166D21950AB6100222C71 /* planet 1 boss.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166B21950AB6100222C71 /* planet 1 boss.png */; };
+		CE9166D41950AB6100222C71 /* Planet 7 boss jaw movements.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166B41950AB6100222C71 /* Planet 7 boss jaw movements.png */; };
+		CE9166D51950AB6100222C71 /* planet 7 boss.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166B51950AB6100222C71 /* planet 7 boss.png */; };
+		CE9166D61950AB6100222C71 /* planet 9 boss.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166B61950AB6100222C71 /* planet 9 boss.png */; };
+		CE9166D71950AB6100222C71 /* planet7jaw.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166B71950AB6100222C71 /* planet7jaw.png */; };
+		CE9166D81950AB6100222C71 /* Thumbs.db in Resources */ = {isa = PBXBuildFile; fileRef = CE9166B81950AB6100222C71 /* Thumbs.db */; };
+		CE9166D91950AB6100222C71 /* auto-target perk.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166BA1950AB6100222C71 /* auto-target perk.png */; };
+		CE9166DA1950AB6100222C71 /* blow.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE9166BB1950AB6100222C71 /* blow.jpg */; };
+		CE9166DB1950AB6100222C71 /* coin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE9166BC1950AB6100222C71 /* coin.jpg */; };
+		CE9166DC1950AB6100222C71 /* explosions.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166BD1950AB6100222C71 /* explosions.png */; };
+		CE9166DD1950AB6100222C71 /* Fonts to use.txt in Resources */ = {isa = PBXBuildFile; fileRef = CE9166BE1950AB6100222C71 /* Fonts to use.txt */; };
+		CE9166DE1950AB6100222C71 /* ground.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166BF1950AB6100222C71 /* ground.png */; };
+		CE9166DF1950AB6100222C71 /* infinity symbol.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166C01950AB6100222C71 /* infinity symbol.png */; };
+		CE9166E01950AB6100222C71 /* life symbol.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166C11950AB6100222C71 /* life symbol.png */; };
+		CE9166E11950AB6100222C71 /* main ship.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166C21950AB6100222C71 /* main ship.png */; };
+		CE9166E21950AB6100222C71 /* missile perk.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166C31950AB6100222C71 /* missile perk.png */; };
+		CE9166E31950AB6100222C71 /* nuke perk.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166C41950AB6100222C71 /* nuke perk.png */; };
+		CE9166E41950AB6100222C71 /* pause menu.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166C51950AB6100222C71 /* pause menu.png */; };
+		CE9166E51950AB6100222C71 /* planet 1 background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE9166C61950AB6100222C71 /* planet 1 background.jpg */; };
+		CE9166E61950AB6100222C71 /* planet 1 captains.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166C71950AB6100222C71 /* planet 1 captains.png */; };
+		CE9166E71950AB6100222C71 /* planet 1 destroyers.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166C81950AB6100222C71 /* planet 1 destroyers.png */; };
+		CE9166E81950AB6100222C71 /* planet 1 guards.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166C91950AB6100222C71 /* planet 1 guards.png */; };
+		CE9166E91950AB6100222C71 /* planet 1 soldiers.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166CA1950AB6100222C71 /* planet 1 soldiers.png */; };
+		CE9166EA1950AB6100222C71 /* planet 1.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166CB1950AB6100222C71 /* planet 1.png */; };
+		CE9166EB1950AB6100222C71 /* Red_laser.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166CC1950AB6100222C71 /* Red_laser.png */; };
+		CE9166EC1950AB6100222C71 /* Rock.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166CD1950AB6100222C71 /* Rock.png */; };
+		CE9166ED1950AB6100222C71 /* select.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166CE1950AB6100222C71 /* select.png */; };
+		CE9166EE1950AB6100222C71 /* shield.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166CF1950AB6100222C71 /* shield.png */; };
+		CE9166EF1950AB6100222C71 /* support ship.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166D01950AB6100222C71 /* support ship.png */; };
+		CE9166F01950AB6100222C71 /* Thumbs.db in Resources */ = {isa = PBXBuildFile; fileRef = CE9166D11950AB6100222C71 /* Thumbs.db */; };
+		CE9167331950AB6700222C71 /* archmenar (ultimate ship).jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE9166F21950AB6700222C71 /* archmenar (ultimate ship).jpg */; };
+		CE9167341950AB6700222C71 /* auto-target perk.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166F31950AB6700222C71 /* auto-target perk.png */; };
+		CE9167351950AB6700222C71 /* coin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE9166F41950AB6700222C71 /* coin.jpg */; };
+		CE9167361950AB6700222C71 /* explosions.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166F51950AB6700222C71 /* explosions.png */; };
+		CE9167371950AB6700222C71 /* Fonts to use.txt in Resources */ = {isa = PBXBuildFile; fileRef = CE9166F61950AB6700222C71 /* Fonts to use.txt */; };
+		CE9167381950AB6700222C71 /* ground.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166F71950AB6700222C71 /* ground.png */; };
+		CE9167391950AB6700222C71 /* infinity symbol.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166F81950AB6700222C71 /* infinity symbol.png */; };
+		CE91673A1950AB6700222C71 /* life symbol.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166F91950AB6700222C71 /* life symbol.png */; };
+		CE91673B1950AB6700222C71 /* main ship 1.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166FA1950AB6700222C71 /* main ship 1.png */; };
+		CE91673C1950AB6700222C71 /* main ship 2.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166FB1950AB6700222C71 /* main ship 2.png */; };
+		CE91673D1950AB6700222C71 /* main ship 3.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166FC1950AB6700222C71 /* main ship 3.png */; };
+		CE91673E1950AB6700222C71 /* main ship 4.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166FD1950AB6700222C71 /* main ship 4.png */; };
+		CE91673F1950AB6700222C71 /* main ship.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166FE1950AB6700222C71 /* main ship.png */; };
+		CE9167401950AB6700222C71 /* main support ship.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9166FF1950AB6700222C71 /* main support ship.png */; };
+		CE9167411950AB6700222C71 /* missile perk.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167001950AB6700222C71 /* missile perk.png */; };
+		CE9167421950AB6700222C71 /* nuke perk.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167011950AB6700222C71 /* nuke perk.png */; };
+		CE9167431950AB6700222C71 /* pause menu.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167021950AB6700222C71 /* pause menu.png */; };
+		CE9167441950AB6700222C71 /* planet 1 background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE9167031950AB6700222C71 /* planet 1 background.jpg */; };
+		CE9167451950AB6700222C71 /* planet 1 captains.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167041950AB6700222C71 /* planet 1 captains.png */; };
+		CE9167461950AB6700222C71 /* planet 1 destroyers.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167051950AB6700222C71 /* planet 1 destroyers.png */; };
+		CE9167471950AB6700222C71 /* planet 1 guards.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167061950AB6700222C71 /* planet 1 guards.png */; };
+		CE9167481950AB6700222C71 /* planet 1 soldiers.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167071950AB6700222C71 /* planet 1 soldiers.png */; };
+		CE9167491950AB6700222C71 /* planet 1.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167081950AB6700222C71 /* planet 1.png */; };
+		CE91674A1950AB6700222C71 /* planet 10 captains.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167091950AB6700222C71 /* planet 10 captains.png */; };
+		CE91674B1950AB6700222C71 /* planet 10 destroyers.png in Resources */ = {isa = PBXBuildFile; fileRef = CE91670A1950AB6700222C71 /* planet 10 destroyers.png */; };
+		CE91674C1950AB6700222C71 /* planet 10 guards.png in Resources */ = {isa = PBXBuildFile; fileRef = CE91670B1950AB6700222C71 /* planet 10 guards.png */; };
+		CE91674D1950AB6700222C71 /* planet 10 soldiers.png in Resources */ = {isa = PBXBuildFile; fileRef = CE91670C1950AB6700222C71 /* planet 10 soldiers.png */; };
+		CE91674E1950AB6700222C71 /* planet 2 captains.png in Resources */ = {isa = PBXBuildFile; fileRef = CE91670D1950AB6700222C71 /* planet 2 captains.png */; };
+		CE91674F1950AB6700222C71 /* planet 2 destroyers.png in Resources */ = {isa = PBXBuildFile; fileRef = CE91670E1950AB6700222C71 /* planet 2 destroyers.png */; };
+		CE9167501950AB6700222C71 /* planet 2 guards.png in Resources */ = {isa = PBXBuildFile; fileRef = CE91670F1950AB6700222C71 /* planet 2 guards.png */; };
+		CE9167511950AB6700222C71 /* planet 2 soldiers.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167101950AB6700222C71 /* planet 2 soldiers.png */; };
+		CE9167521950AB6700222C71 /* planet 3 captains.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167111950AB6700222C71 /* planet 3 captains.png */; };
+		CE9167531950AB6700222C71 /* planet 3 destroyers.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167121950AB6700222C71 /* planet 3 destroyers.png */; };
+		CE9167541950AB6700222C71 /* planet 3 guards.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167131950AB6700222C71 /* planet 3 guards.png */; };
+		CE9167551950AB6700222C71 /* planet 3 soldiers.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167141950AB6700222C71 /* planet 3 soldiers.png */; };
+		CE9167561950AB6700222C71 /* planet 4 captains.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167151950AB6700222C71 /* planet 4 captains.png */; };
+		CE9167571950AB6700222C71 /* planet 4 destroyers.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167161950AB6700222C71 /* planet 4 destroyers.png */; };
+		CE9167581950AB6700222C71 /* planet 4 guards.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167171950AB6700222C71 /* planet 4 guards.png */; };
+		CE9167591950AB6700222C71 /* planet 4 soldiers.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167181950AB6700222C71 /* planet 4 soldiers.png */; };
+		CE91675A1950AB6700222C71 /* planet 5 captains.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167191950AB6700222C71 /* planet 5 captains.png */; };
+		CE91675B1950AB6700222C71 /* planet 5 destroyers.png in Resources */ = {isa = PBXBuildFile; fileRef = CE91671A1950AB6700222C71 /* planet 5 destroyers.png */; };
+		CE91675C1950AB6700222C71 /* planet 5 guards.png in Resources */ = {isa = PBXBuildFile; fileRef = CE91671B1950AB6700222C71 /* planet 5 guards.png */; };
+		CE91675D1950AB6700222C71 /* planet 5 soldiers.png in Resources */ = {isa = PBXBuildFile; fileRef = CE91671C1950AB6700222C71 /* planet 5 soldiers.png */; };
+		CE91675E1950AB6700222C71 /* planet 6 captains.png in Resources */ = {isa = PBXBuildFile; fileRef = CE91671D1950AB6700222C71 /* planet 6 captains.png */; };
+		CE91675F1950AB6700222C71 /* planet 6 destroyers.png in Resources */ = {isa = PBXBuildFile; fileRef = CE91671E1950AB6700222C71 /* planet 6 destroyers.png */; };
+		CE9167601950AB6700222C71 /* planet 6 guards.png in Resources */ = {isa = PBXBuildFile; fileRef = CE91671F1950AB6700222C71 /* planet 6 guards.png */; };
+		CE9167611950AB6700222C71 /* planet 6 soldiers.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167201950AB6700222C71 /* planet 6 soldiers.png */; };
+		CE9167621950AB6700222C71 /* planet 7 captains.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167211950AB6700222C71 /* planet 7 captains.png */; };
+		CE9167631950AB6700222C71 /* planet 7 destroyers.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167221950AB6700222C71 /* planet 7 destroyers.png */; };
+		CE9167641950AB6700222C71 /* planet 7 guards.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167231950AB6700222C71 /* planet 7 guards.png */; };
+		CE9167651950AB6700222C71 /* planet 7 soldiers.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167241950AB6700222C71 /* planet 7 soldiers.png */; };
+		CE9167661950AB6700222C71 /* planet 8 captains.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167251950AB6700222C71 /* planet 8 captains.png */; };
+		CE9167671950AB6700222C71 /* planet 8 destroyers.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167261950AB6700222C71 /* planet 8 destroyers.png */; };
+		CE9167681950AB6700222C71 /* planet 8 guards.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167271950AB6700222C71 /* planet 8 guards.png */; };
+		CE9167691950AB6700222C71 /* planet 8 soldiers.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167281950AB6700222C71 /* planet 8 soldiers.png */; };
+		CE91676A1950AB6700222C71 /* planet 9 captains.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167291950AB6700222C71 /* planet 9 captains.png */; };
+		CE91676B1950AB6700222C71 /* planet 9 destroyers.png in Resources */ = {isa = PBXBuildFile; fileRef = CE91672A1950AB6700222C71 /* planet 9 destroyers.png */; };
+		CE91676C1950AB6700222C71 /* planet 9 guards.png in Resources */ = {isa = PBXBuildFile; fileRef = CE91672B1950AB6700222C71 /* planet 9 guards.png */; };
+		CE91676D1950AB6700222C71 /* planet 9 soldiers.png in Resources */ = {isa = PBXBuildFile; fileRef = CE91672C1950AB6700222C71 /* planet 9 soldiers.png */; };
+		CE91676E1950AB6700222C71 /* Red_laser.png in Resources */ = {isa = PBXBuildFile; fileRef = CE91672D1950AB6700222C71 /* Red_laser.png */; };
+		CE91676F1950AB6700222C71 /* Rock.png in Resources */ = {isa = PBXBuildFile; fileRef = CE91672E1950AB6700222C71 /* Rock.png */; };
+		CE9167701950AB6700222C71 /* select.png in Resources */ = {isa = PBXBuildFile; fileRef = CE91672F1950AB6700222C71 /* select.png */; };
+		CE9167711950AB6700222C71 /* shield.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167301950AB6700222C71 /* shield.png */; };
+		CE9167721950AB6700222C71 /* support ship.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167311950AB6700222C71 /* support ship.png */; };
+		CE9167731950AB6700222C71 /* Thumbs.db in Resources */ = {isa = PBXBuildFile; fileRef = CE9167321950AB6700222C71 /* Thumbs.db */; };
+		CE9167751950ABED00222C71 /* greenLaserRay.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167741950ABED00222C71 /* greenLaserRay.png */; };
+		CE9167771950AE0500222C71 /* planet 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE9167761950AE0500222C71 /* planet 3.jpg */; };
+		CE91677A1950BFAF00222C71 /* cosmosPAUSE.m in Sources */ = {isa = PBXBuildFile; fileRef = CE9167791950BFAF00222C71 /* cosmosPAUSE.m */; };
+		CE91677C1950CBAD00222C71 /* misc_explosion_element_png_by_dbszabo1-d54iy0g.png in Resources */ = {isa = PBXBuildFile; fileRef = CE91677B1950CBAD00222C71 /* misc_explosion_element_png_by_dbszabo1-d54iy0g.png */; };
+		CE9167B61950D77C00222C71 /* Icon-40.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167961950D77C00222C71 /* Icon-40.png */; };
+		CE9167B71950D77C00222C71 /* Icon-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167971950D77C00222C71 /* Icon-40@2x.png */; };
+		CE9167B81950D77C00222C71 /* Icon-60.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167981950D77C00222C71 /* Icon-60.png */; };
+		CE9167B91950D77C00222C71 /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167991950D77C00222C71 /* Icon-72.png */; };
+		CE9167BA1950D77C00222C71 /* Icon-60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CE91679A1950D77C00222C71 /* Icon-60@2x.png */; };
+		CE9167BB1950D77C00222C71 /* Icon-72@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CE91679B1950D77C00222C71 /* Icon-72@2x.png */; };
+		CE9167BC1950D77C00222C71 /* Icon-76.png in Resources */ = {isa = PBXBuildFile; fileRef = CE91679C1950D77C00222C71 /* Icon-76.png */; };
+		CE9167BD1950D77C00222C71 /* Icon-76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CE91679D1950D77C00222C71 /* Icon-76@2x.png */; };
+		CE9167BE1950D77C00222C71 /* Icon-Small-50.png in Resources */ = {isa = PBXBuildFile; fileRef = CE91679E1950D77C00222C71 /* Icon-Small-50.png */; };
+		CE9167BF1950D77C00222C71 /* Icon-Small-50@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CE91679F1950D77C00222C71 /* Icon-Small-50@2x.png */; };
+		CE9167C01950D77C00222C71 /* Icon-Small.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167A01950D77C00222C71 /* Icon-Small.png */; };
+		CE9167C11950D77C00222C71 /* Icon-Small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167A11950D77C00222C71 /* Icon-Small@2x.png */; };
+		CE9167C21950D77C00222C71 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167A21950D77C00222C71 /* Icon.png */; };
+		CE9167C31950D77C00222C71 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167A31950D77C00222C71 /* Icon@2x.png */; };
+		CE9167C41950D77C00222C71 /* iTunesArtwork.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167A41950D77C00222C71 /* iTunesArtwork.png */; };
+		CE9167C51950D77C00222C71 /* iTunesArtwork@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9167A51950D77C00222C71 /* iTunesArtwork@2x.png */; };
+		CEAF2BC0195121A700464078 /* SurvivalModeOne.m in Sources */ = {isa = PBXBuildFile; fileRef = CEAF2BBF195121A700464078 /* SurvivalModeOne.m */; };
+		CEAF2BC319520FAC00464078 /* levelTransition.m in Sources */ = {isa = PBXBuildFile; fileRef = CEAF2BC219520FAC00464078 /* levelTransition.m */; };
+		CEAF2BC6195214FB00464078 /* levelTwo.m in Sources */ = {isa = PBXBuildFile; fileRef = CEAF2BC5195214FB00464078 /* levelTwo.m */; };
+		CEAF2BC919521BB500464078 /* levelthree.m in Sources */ = {isa = PBXBuildFile; fileRef = CEAF2BC819521BB500464078 /* levelthree.m */; };
+		CEAF2BCC19521BC700464078 /* levelfour.m in Sources */ = {isa = PBXBuildFile; fileRef = CEAF2BCB19521BC700464078 /* levelfour.m */; };
+		CEAF2BCF19521BCF00464078 /* levelfive.m in Sources */ = {isa = PBXBuildFile; fileRef = CEAF2BCE19521BCF00464078 /* levelfive.m */; };
+		CEAF2BD219521BD900464078 /* levelsix.m in Sources */ = {isa = PBXBuildFile; fileRef = CEAF2BD119521BD900464078 /* levelsix.m */; };
+		CEAF2BD519521C1E00464078 /* levelseven.m in Sources */ = {isa = PBXBuildFile; fileRef = CEAF2BD419521C1E00464078 /* levelseven.m */; };
+		CEAF2BD819521C2900464078 /* leveleight.m in Sources */ = {isa = PBXBuildFile; fileRef = CEAF2BD719521C2900464078 /* leveleight.m */; };
+		CEAF2BDB19521C3F00464078 /* levelnine.m in Sources */ = {isa = PBXBuildFile; fileRef = CEAF2BDA19521C3F00464078 /* levelnine.m */; };
+		CEAF2BDE19521C5400464078 /* levelten.m in Sources */ = {isa = PBXBuildFile; fileRef = CEAF2BDD19521C5400464078 /* levelten.m */; };
+		CEAF2BE019531EAC00464078 /* planet 2 boss.png in Resources */ = {isa = PBXBuildFile; fileRef = CEAF2BDF19531EAC00464078 /* planet 2 boss.png */; };
+		CEAF2BE219531EB400464078 /* planet 6 boss.png in Resources */ = {isa = PBXBuildFile; fileRef = CEAF2BE119531EB400464078 /* planet 6 boss.png */; };
+		CEAF2BE419534AE500464078 /* 4A8_Fireball1_GD.png in Resources */ = {isa = PBXBuildFile; fileRef = CEAF2BE319534AE500464078 /* 4A8_Fireball1_GD.png */; };
+		CEAF2BE619534B4300464078 /* fire_ball_png_by_dbszabo1-d515um9.png in Resources */ = {isa = PBXBuildFile; fileRef = CEAF2BE519534B4300464078 /* fire_ball_png_by_dbszabo1-d515um9.png */; };
+		CEAF2BE81954318200464078 /* Coin-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = CEAF2BE71954318200464078 /* Coin-icon.png */; };
+		CEAF2BFC19544D8100464078 /* smtwo.m in Sources */ = {isa = PBXBuildFile; fileRef = CEAF2BFB19544D8100464078 /* smtwo.m */; };
+		CEAF2BFF19544D8F00464078 /* smthree.m in Sources */ = {isa = PBXBuildFile; fileRef = CEAF2BFE19544D8F00464078 /* smthree.m */; };
+		CEAF2C0519544DA800464078 /* smfour.m in Sources */ = {isa = PBXBuildFile; fileRef = CEAF2C0419544DA800464078 /* smfour.m */; };
+		CEAF2C0819544DB000464078 /* smfive.m in Sources */ = {isa = PBXBuildFile; fileRef = CEAF2C0719544DB000464078 /* smfive.m */; };
+		CEAF2C0B19544DBC00464078 /* smsix.m in Sources */ = {isa = PBXBuildFile; fileRef = CEAF2C0A19544DBC00464078 /* smsix.m */; };
+		CEAF2C0E19544DC500464078 /* smseven.m in Sources */ = {isa = PBXBuildFile; fileRef = CEAF2C0D19544DC500464078 /* smseven.m */; };
+		CEAF2C1119544DCC00464078 /* smeight.m in Sources */ = {isa = PBXBuildFile; fileRef = CEAF2C1019544DCC00464078 /* smeight.m */; };
+		CEAF2C1419544DD300464078 /* smnine.m in Sources */ = {isa = PBXBuildFile; fileRef = CEAF2C1319544DD300464078 /* smnine.m */; };
+		CEAF2C1719544DDF00464078 /* smten.m in Sources */ = {isa = PBXBuildFile; fileRef = CEAF2C1619544DDF00464078 /* smten.m */; };
+		CEAF2C1919545DFB00464078 /* Lazer sound effect.wav in Resources */ = {isa = PBXBuildFile; fileRef = CEAF2C1819545DFB00464078 /* Lazer sound effect.wav */; };
+		CEAF2C2A195486DF00464078 /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CEAF2C28195486DF00464078 /* libGoogleAdMobAds.a */; };
+		CEAF2C2B195486DF00464078 /* README.txt in Resources */ = {isa = PBXBuildFile; fileRef = CEAF2C29195486DF00464078 /* README.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +234,213 @@
 		CE91664C1950AAB800222C71 /* Starship ITests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Starship ITests-Info.plist"; sourceTree = "<group>"; };
 		CE91664E1950AAB800222C71 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		CE9166501950AAB800222C71 /* Starship_ITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Starship_ITests.m; sourceTree = "<group>"; };
+		CE91665C1950AB4900222C71 /* backgroundscc1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = backgroundscc1.png; sourceTree = "<group>"; };
+		CE91665D1950AB4900222C71 /* planetoo1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = planetoo1.png; sourceTree = "<group>"; };
+		CE91665E1950AB4900222C71 /* Thumbs.db */ = {isa = PBXFileReference; lastKnownFileType = file; path = Thumbs.db; sourceTree = "<group>"; };
+		CE9166601950AB4900222C71 /* background 10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "background 10.png"; sourceTree = "<group>"; };
+		CE9166611950AB4900222C71 /* Planet 10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Planet 10.png"; sourceTree = "<group>"; };
+		CE9166621950AB4900222C71 /* Thumbs.db */ = {isa = PBXFileReference; lastKnownFileType = file; path = Thumbs.db; sourceTree = "<group>"; };
+		CE9166641950AB4900222C71 /* background 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "background 2.png"; sourceTree = "<group>"; };
+		CE9166651950AB4900222C71 /* Planet 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Planet 2.png"; sourceTree = "<group>"; };
+		CE9166661950AB4900222C71 /* Thumbs.db */ = {isa = PBXFileReference; lastKnownFileType = file; path = Thumbs.db; sourceTree = "<group>"; };
+		CE9166681950AB4900222C71 /* background 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "background 3.png"; sourceTree = "<group>"; };
+		CE9166691950AB4900222C71 /* planet 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 3.png"; sourceTree = "<group>"; };
+		CE91666A1950AB4900222C71 /* Thumbs.db */ = {isa = PBXFileReference; lastKnownFileType = file; path = Thumbs.db; sourceTree = "<group>"; };
+		CE91666C1950AB4900222C71 /* background 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "background 4.png"; sourceTree = "<group>"; };
+		CE91666D1950AB4900222C71 /* Planet 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Planet 4.png"; sourceTree = "<group>"; };
+		CE91666E1950AB4900222C71 /* Thumbs.db */ = {isa = PBXFileReference; lastKnownFileType = file; path = Thumbs.db; sourceTree = "<group>"; };
+		CE9166701950AB4900222C71 /* background 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "background 5.png"; sourceTree = "<group>"; };
+		CE9166711950AB4900222C71 /* Planet 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Planet 5.png"; sourceTree = "<group>"; };
+		CE9166721950AB4900222C71 /* Thumbs.db */ = {isa = PBXFileReference; lastKnownFileType = file; path = Thumbs.db; sourceTree = "<group>"; };
+		CE9166741950AB4900222C71 /* background 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "background 6.png"; sourceTree = "<group>"; };
+		CE9166751950AB4900222C71 /* Planet 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Planet 6.png"; sourceTree = "<group>"; };
+		CE9166761950AB4900222C71 /* Thumbs.db */ = {isa = PBXFileReference; lastKnownFileType = file; path = Thumbs.db; sourceTree = "<group>"; };
+		CE9166781950AB4900222C71 /* background 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "background 7.png"; sourceTree = "<group>"; };
+		CE9166791950AB4900222C71 /* Planet 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Planet 7.png"; sourceTree = "<group>"; };
+		CE91667A1950AB4900222C71 /* Thumbs.db */ = {isa = PBXFileReference; lastKnownFileType = file; path = Thumbs.db; sourceTree = "<group>"; };
+		CE91667C1950AB4900222C71 /* background 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "background 8.png"; sourceTree = "<group>"; };
+		CE91667D1950AB4900222C71 /* Planet 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Planet 8.png"; sourceTree = "<group>"; };
+		CE91667E1950AB4900222C71 /* Thumbs.db */ = {isa = PBXFileReference; lastKnownFileType = file; path = Thumbs.db; sourceTree = "<group>"; };
+		CE9166801950AB4900222C71 /* background 9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "background 9.png"; sourceTree = "<group>"; };
+		CE9166811950AB4900222C71 /* Planet 9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Planet 9.png"; sourceTree = "<group>"; };
+		CE9166821950AB4900222C71 /* Thumbs.db */ = {isa = PBXFileReference; lastKnownFileType = file; path = Thumbs.db; sourceTree = "<group>"; };
+		CE9166831950AB4900222C71 /* Thumbs.db */ = {isa = PBXFileReference; lastKnownFileType = file; path = Thumbs.db; sourceTree = "<group>"; };
+		CE9166B21950AB6100222C71 /* planet 1 boss.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 1 boss.png"; sourceTree = "<group>"; };
+		CE9166B41950AB6100222C71 /* Planet 7 boss jaw movements.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Planet 7 boss jaw movements.png"; sourceTree = "<group>"; };
+		CE9166B51950AB6100222C71 /* planet 7 boss.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 7 boss.png"; sourceTree = "<group>"; };
+		CE9166B61950AB6100222C71 /* planet 9 boss.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 9 boss.png"; sourceTree = "<group>"; };
+		CE9166B71950AB6100222C71 /* planet7jaw.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = planet7jaw.png; sourceTree = "<group>"; };
+		CE9166B81950AB6100222C71 /* Thumbs.db */ = {isa = PBXFileReference; lastKnownFileType = file; path = Thumbs.db; sourceTree = "<group>"; };
+		CE9166BA1950AB6100222C71 /* auto-target perk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "auto-target perk.png"; sourceTree = "<group>"; };
+		CE9166BB1950AB6100222C71 /* blow.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = blow.jpg; sourceTree = "<group>"; };
+		CE9166BC1950AB6100222C71 /* coin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = coin.jpg; sourceTree = "<group>"; };
+		CE9166BD1950AB6100222C71 /* explosions.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = explosions.png; sourceTree = "<group>"; };
+		CE9166BE1950AB6100222C71 /* Fonts to use.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Fonts to use.txt"; sourceTree = "<group>"; };
+		CE9166BF1950AB6100222C71 /* ground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ground.png; sourceTree = "<group>"; };
+		CE9166C01950AB6100222C71 /* infinity symbol.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "infinity symbol.png"; sourceTree = "<group>"; };
+		CE9166C11950AB6100222C71 /* life symbol.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "life symbol.png"; sourceTree = "<group>"; };
+		CE9166C21950AB6100222C71 /* main ship.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "main ship.png"; sourceTree = "<group>"; };
+		CE9166C31950AB6100222C71 /* missile perk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "missile perk.png"; sourceTree = "<group>"; };
+		CE9166C41950AB6100222C71 /* nuke perk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "nuke perk.png"; sourceTree = "<group>"; };
+		CE9166C51950AB6100222C71 /* pause menu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pause menu.png"; sourceTree = "<group>"; };
+		CE9166C61950AB6100222C71 /* planet 1 background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "planet 1 background.jpg"; sourceTree = "<group>"; };
+		CE9166C71950AB6100222C71 /* planet 1 captains.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 1 captains.png"; sourceTree = "<group>"; };
+		CE9166C81950AB6100222C71 /* planet 1 destroyers.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 1 destroyers.png"; sourceTree = "<group>"; };
+		CE9166C91950AB6100222C71 /* planet 1 guards.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 1 guards.png"; sourceTree = "<group>"; };
+		CE9166CA1950AB6100222C71 /* planet 1 soldiers.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 1 soldiers.png"; sourceTree = "<group>"; };
+		CE9166CB1950AB6100222C71 /* planet 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 1.png"; sourceTree = "<group>"; };
+		CE9166CC1950AB6100222C71 /* Red_laser.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Red_laser.png; sourceTree = "<group>"; };
+		CE9166CD1950AB6100222C71 /* Rock.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Rock.png; sourceTree = "<group>"; };
+		CE9166CE1950AB6100222C71 /* select.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = select.png; sourceTree = "<group>"; };
+		CE9166CF1950AB6100222C71 /* shield.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shield.png; sourceTree = "<group>"; };
+		CE9166D01950AB6100222C71 /* support ship.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "support ship.png"; sourceTree = "<group>"; };
+		CE9166D11950AB6100222C71 /* Thumbs.db */ = {isa = PBXFileReference; lastKnownFileType = file; path = Thumbs.db; sourceTree = "<group>"; };
+		CE9166F21950AB6700222C71 /* archmenar (ultimate ship).jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "archmenar (ultimate ship).jpg"; sourceTree = "<group>"; };
+		CE9166F31950AB6700222C71 /* auto-target perk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "auto-target perk.png"; sourceTree = "<group>"; };
+		CE9166F41950AB6700222C71 /* coin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = coin.jpg; sourceTree = "<group>"; };
+		CE9166F51950AB6700222C71 /* explosions.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = explosions.png; sourceTree = "<group>"; };
+		CE9166F61950AB6700222C71 /* Fonts to use.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Fonts to use.txt"; sourceTree = "<group>"; };
+		CE9166F71950AB6700222C71 /* ground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ground.png; sourceTree = "<group>"; };
+		CE9166F81950AB6700222C71 /* infinity symbol.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "infinity symbol.png"; sourceTree = "<group>"; };
+		CE9166F91950AB6700222C71 /* life symbol.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "life symbol.png"; sourceTree = "<group>"; };
+		CE9166FA1950AB6700222C71 /* main ship 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "main ship 1.png"; sourceTree = "<group>"; };
+		CE9166FB1950AB6700222C71 /* main ship 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "main ship 2.png"; sourceTree = "<group>"; };
+		CE9166FC1950AB6700222C71 /* main ship 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "main ship 3.png"; sourceTree = "<group>"; };
+		CE9166FD1950AB6700222C71 /* main ship 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "main ship 4.png"; sourceTree = "<group>"; };
+		CE9166FE1950AB6700222C71 /* main ship.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "main ship.png"; sourceTree = "<group>"; };
+		CE9166FF1950AB6700222C71 /* main support ship.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "main support ship.png"; sourceTree = "<group>"; };
+		CE9167001950AB6700222C71 /* missile perk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "missile perk.png"; sourceTree = "<group>"; };
+		CE9167011950AB6700222C71 /* nuke perk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "nuke perk.png"; sourceTree = "<group>"; };
+		CE9167021950AB6700222C71 /* pause menu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pause menu.png"; sourceTree = "<group>"; };
+		CE9167031950AB6700222C71 /* planet 1 background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "planet 1 background.jpg"; sourceTree = "<group>"; };
+		CE9167041950AB6700222C71 /* planet 1 captains.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 1 captains.png"; sourceTree = "<group>"; };
+		CE9167051950AB6700222C71 /* planet 1 destroyers.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 1 destroyers.png"; sourceTree = "<group>"; };
+		CE9167061950AB6700222C71 /* planet 1 guards.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 1 guards.png"; sourceTree = "<group>"; };
+		CE9167071950AB6700222C71 /* planet 1 soldiers.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 1 soldiers.png"; sourceTree = "<group>"; };
+		CE9167081950AB6700222C71 /* planet 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 1.png"; sourceTree = "<group>"; };
+		CE9167091950AB6700222C71 /* planet 10 captains.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 10 captains.png"; sourceTree = "<group>"; };
+		CE91670A1950AB6700222C71 /* planet 10 destroyers.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 10 destroyers.png"; sourceTree = "<group>"; };
+		CE91670B1950AB6700222C71 /* planet 10 guards.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 10 guards.png"; sourceTree = "<group>"; };
+		CE91670C1950AB6700222C71 /* planet 10 soldiers.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 10 soldiers.png"; sourceTree = "<group>"; };
+		CE91670D1950AB6700222C71 /* planet 2 captains.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 2 captains.png"; sourceTree = "<group>"; };
+		CE91670E1950AB6700222C71 /* planet 2 destroyers.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 2 destroyers.png"; sourceTree = "<group>"; };
+		CE91670F1950AB6700222C71 /* planet 2 guards.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 2 guards.png"; sourceTree = "<group>"; };
+		CE9167101950AB6700222C71 /* planet 2 soldiers.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 2 soldiers.png"; sourceTree = "<group>"; };
+		CE9167111950AB6700222C71 /* planet 3 captains.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 3 captains.png"; sourceTree = "<group>"; };
+		CE9167121950AB6700222C71 /* planet 3 destroyers.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 3 destroyers.png"; sourceTree = "<group>"; };
+		CE9167131950AB6700222C71 /* planet 3 guards.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 3 guards.png"; sourceTree = "<group>"; };
+		CE9167141950AB6700222C71 /* planet 3 soldiers.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 3 soldiers.png"; sourceTree = "<group>"; };
+		CE9167151950AB6700222C71 /* planet 4 captains.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 4 captains.png"; sourceTree = "<group>"; };
+		CE9167161950AB6700222C71 /* planet 4 destroyers.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 4 destroyers.png"; sourceTree = "<group>"; };
+		CE9167171950AB6700222C71 /* planet 4 guards.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 4 guards.png"; sourceTree = "<group>"; };
+		CE9167181950AB6700222C71 /* planet 4 soldiers.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 4 soldiers.png"; sourceTree = "<group>"; };
+		CE9167191950AB6700222C71 /* planet 5 captains.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 5 captains.png"; sourceTree = "<group>"; };
+		CE91671A1950AB6700222C71 /* planet 5 destroyers.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 5 destroyers.png"; sourceTree = "<group>"; };
+		CE91671B1950AB6700222C71 /* planet 5 guards.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 5 guards.png"; sourceTree = "<group>"; };
+		CE91671C1950AB6700222C71 /* planet 5 soldiers.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 5 soldiers.png"; sourceTree = "<group>"; };
+		CE91671D1950AB6700222C71 /* planet 6 captains.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 6 captains.png"; sourceTree = "<group>"; };
+		CE91671E1950AB6700222C71 /* planet 6 destroyers.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 6 destroyers.png"; sourceTree = "<group>"; };
+		CE91671F1950AB6700222C71 /* planet 6 guards.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 6 guards.png"; sourceTree = "<group>"; };
+		CE9167201950AB6700222C71 /* planet 6 soldiers.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 6 soldiers.png"; sourceTree = "<group>"; };
+		CE9167211950AB6700222C71 /* planet 7 captains.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 7 captains.png"; sourceTree = "<group>"; };
+		CE9167221950AB6700222C71 /* planet 7 destroyers.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 7 destroyers.png"; sourceTree = "<group>"; };
+		CE9167231950AB6700222C71 /* planet 7 guards.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 7 guards.png"; sourceTree = "<group>"; };
+		CE9167241950AB6700222C71 /* planet 7 soldiers.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 7 soldiers.png"; sourceTree = "<group>"; };
+		CE9167251950AB6700222C71 /* planet 8 captains.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 8 captains.png"; sourceTree = "<group>"; };
+		CE9167261950AB6700222C71 /* planet 8 destroyers.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 8 destroyers.png"; sourceTree = "<group>"; };
+		CE9167271950AB6700222C71 /* planet 8 guards.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 8 guards.png"; sourceTree = "<group>"; };
+		CE9167281950AB6700222C71 /* planet 8 soldiers.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 8 soldiers.png"; sourceTree = "<group>"; };
+		CE9167291950AB6700222C71 /* planet 9 captains.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 9 captains.png"; sourceTree = "<group>"; };
+		CE91672A1950AB6700222C71 /* planet 9 destroyers.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 9 destroyers.png"; sourceTree = "<group>"; };
+		CE91672B1950AB6700222C71 /* planet 9 guards.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 9 guards.png"; sourceTree = "<group>"; };
+		CE91672C1950AB6700222C71 /* planet 9 soldiers.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 9 soldiers.png"; sourceTree = "<group>"; };
+		CE91672D1950AB6700222C71 /* Red_laser.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Red_laser.png; sourceTree = "<group>"; };
+		CE91672E1950AB6700222C71 /* Rock.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Rock.png; sourceTree = "<group>"; };
+		CE91672F1950AB6700222C71 /* select.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = select.png; sourceTree = "<group>"; };
+		CE9167301950AB6700222C71 /* shield.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shield.png; sourceTree = "<group>"; };
+		CE9167311950AB6700222C71 /* support ship.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "support ship.png"; sourceTree = "<group>"; };
+		CE9167321950AB6700222C71 /* Thumbs.db */ = {isa = PBXFileReference; lastKnownFileType = file; path = Thumbs.db; sourceTree = "<group>"; };
+		CE9167741950ABED00222C71 /* greenLaserRay.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = greenLaserRay.png; sourceTree = "<group>"; };
+		CE9167761950AE0500222C71 /* planet 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "planet 3.jpg"; sourceTree = "<group>"; };
+		CE9167781950BFAF00222C71 /* cosmosPAUSE.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = cosmosPAUSE.h; sourceTree = "<group>"; };
+		CE9167791950BFAF00222C71 /* cosmosPAUSE.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = cosmosPAUSE.m; sourceTree = "<group>"; };
+		CE91677B1950CBAD00222C71 /* misc_explosion_element_png_by_dbszabo1-d54iy0g.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "misc_explosion_element_png_by_dbszabo1-d54iy0g.png"; sourceTree = "<group>"; };
+		CE9167961950D77C00222C71 /* Icon-40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-40.png"; sourceTree = "<group>"; };
+		CE9167971950D77C00222C71 /* Icon-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-40@2x.png"; sourceTree = "<group>"; };
+		CE9167981950D77C00222C71 /* Icon-60.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-60.png"; sourceTree = "<group>"; };
+		CE9167991950D77C00222C71 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72.png"; sourceTree = "<group>"; };
+		CE91679A1950D77C00222C71 /* Icon-60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-60@2x.png"; sourceTree = "<group>"; };
+		CE91679B1950D77C00222C71 /* Icon-72@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72@2x.png"; sourceTree = "<group>"; };
+		CE91679C1950D77C00222C71 /* Icon-76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-76.png"; sourceTree = "<group>"; };
+		CE91679D1950D77C00222C71 /* Icon-76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-76@2x.png"; sourceTree = "<group>"; };
+		CE91679E1950D77C00222C71 /* Icon-Small-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small-50.png"; sourceTree = "<group>"; };
+		CE91679F1950D77C00222C71 /* Icon-Small-50@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small-50@2x.png"; sourceTree = "<group>"; };
+		CE9167A01950D77C00222C71 /* Icon-Small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small.png"; sourceTree = "<group>"; };
+		CE9167A11950D77C00222C71 /* Icon-Small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small@2x.png"; sourceTree = "<group>"; };
+		CE9167A21950D77C00222C71 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		CE9167A31950D77C00222C71 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
+		CE9167A41950D77C00222C71 /* iTunesArtwork.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iTunesArtwork.png; sourceTree = "<group>"; };
+		CE9167A51950D77C00222C71 /* iTunesArtwork@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iTunesArtwork@2x.png"; sourceTree = "<group>"; };
+		CEAF2BBE195121A700464078 /* SurvivalModeOne.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SurvivalModeOne.h; sourceTree = "<group>"; };
+		CEAF2BBF195121A700464078 /* SurvivalModeOne.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SurvivalModeOne.m; sourceTree = "<group>"; };
+		CEAF2BC119520FAC00464078 /* levelTransition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = levelTransition.h; sourceTree = "<group>"; };
+		CEAF2BC219520FAC00464078 /* levelTransition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = levelTransition.m; sourceTree = "<group>"; };
+		CEAF2BC4195214FB00464078 /* levelTwo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = levelTwo.h; sourceTree = SOURCE_ROOT; };
+		CEAF2BC5195214FB00464078 /* levelTwo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = levelTwo.m; sourceTree = SOURCE_ROOT; };
+		CEAF2BC719521BB500464078 /* levelthree.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = levelthree.h; sourceTree = "<group>"; };
+		CEAF2BC819521BB500464078 /* levelthree.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = levelthree.m; sourceTree = "<group>"; };
+		CEAF2BCA19521BC700464078 /* levelfour.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = levelfour.h; sourceTree = "<group>"; };
+		CEAF2BCB19521BC700464078 /* levelfour.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = levelfour.m; sourceTree = "<group>"; };
+		CEAF2BCD19521BCF00464078 /* levelfive.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = levelfive.h; sourceTree = "<group>"; };
+		CEAF2BCE19521BCF00464078 /* levelfive.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = levelfive.m; sourceTree = "<group>"; };
+		CEAF2BD019521BD900464078 /* levelsix.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = levelsix.h; sourceTree = "<group>"; };
+		CEAF2BD119521BD900464078 /* levelsix.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = levelsix.m; sourceTree = "<group>"; };
+		CEAF2BD319521C1E00464078 /* levelseven.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = levelseven.h; sourceTree = "<group>"; };
+		CEAF2BD419521C1E00464078 /* levelseven.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = levelseven.m; sourceTree = "<group>"; };
+		CEAF2BD619521C2900464078 /* leveleight.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = leveleight.h; sourceTree = "<group>"; };
+		CEAF2BD719521C2900464078 /* leveleight.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = leveleight.m; sourceTree = "<group>"; };
+		CEAF2BD919521C3F00464078 /* levelnine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = levelnine.h; sourceTree = "<group>"; };
+		CEAF2BDA19521C3F00464078 /* levelnine.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = levelnine.m; sourceTree = "<group>"; };
+		CEAF2BDC19521C5400464078 /* levelten.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = levelten.h; sourceTree = "<group>"; };
+		CEAF2BDD19521C5400464078 /* levelten.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = levelten.m; sourceTree = "<group>"; };
+		CEAF2BDF19531EAC00464078 /* planet 2 boss.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 2 boss.png"; sourceTree = "<group>"; };
+		CEAF2BE119531EB400464078 /* planet 6 boss.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet 6 boss.png"; sourceTree = "<group>"; };
+		CEAF2BE319534AE500464078 /* 4A8_Fireball1_GD.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4A8_Fireball1_GD.png; sourceTree = "<group>"; };
+		CEAF2BE519534B4300464078 /* fire_ball_png_by_dbszabo1-d515um9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fire_ball_png_by_dbszabo1-d515um9.png"; sourceTree = "<group>"; };
+		CEAF2BE71954318200464078 /* Coin-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Coin-icon.png"; sourceTree = "<group>"; };
+		CEAF2BFA19544D8100464078 /* smtwo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = smtwo.h; sourceTree = "<group>"; };
+		CEAF2BFB19544D8100464078 /* smtwo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = smtwo.m; sourceTree = "<group>"; };
+		CEAF2BFD19544D8F00464078 /* smthree.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = smthree.h; sourceTree = "<group>"; };
+		CEAF2BFE19544D8F00464078 /* smthree.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = smthree.m; sourceTree = "<group>"; };
+		CEAF2C0319544DA800464078 /* smfour.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = smfour.h; sourceTree = "<group>"; };
+		CEAF2C0419544DA800464078 /* smfour.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = smfour.m; sourceTree = "<group>"; };
+		CEAF2C0619544DB000464078 /* smfive.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = smfive.h; sourceTree = "<group>"; };
+		CEAF2C0719544DB000464078 /* smfive.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = smfive.m; sourceTree = "<group>"; };
+		CEAF2C0919544DBC00464078 /* smsix.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = smsix.h; sourceTree = "<group>"; };
+		CEAF2C0A19544DBC00464078 /* smsix.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = smsix.m; sourceTree = "<group>"; };
+		CEAF2C0C19544DC500464078 /* smseven.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = smseven.h; sourceTree = "<group>"; };
+		CEAF2C0D19544DC500464078 /* smseven.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = smseven.m; sourceTree = "<group>"; };
+		CEAF2C0F19544DCC00464078 /* smeight.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = smeight.h; sourceTree = "<group>"; };
+		CEAF2C1019544DCC00464078 /* smeight.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = smeight.m; sourceTree = "<group>"; };
+		CEAF2C1219544DD300464078 /* smnine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = smnine.h; sourceTree = "<group>"; };
+		CEAF2C1319544DD300464078 /* smnine.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = smnine.m; sourceTree = "<group>"; };
+		CEAF2C1519544DDF00464078 /* smten.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = smten.h; sourceTree = "<group>"; };
+		CEAF2C1619544DDF00464078 /* smten.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = smten.m; sourceTree = "<group>"; };
+		CEAF2C1819545DFB00464078 /* Lazer sound effect.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Lazer sound effect.wav"; sourceTree = "<group>"; };
+		CEAF2C1C195486DF00464078 /* GADAdMobExtras.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GADAdMobExtras.h; path = "../../../../Downloads/GoogleMobileAdsSdkiOS-6.9.3/GADAdMobExtras.h"; sourceTree = "<group>"; };
+		CEAF2C1D195486DF00464078 /* GADAdNetworkExtras.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GADAdNetworkExtras.h; path = "../../../../Downloads/GoogleMobileAdsSdkiOS-6.9.3/GADAdNetworkExtras.h"; sourceTree = "<group>"; };
+		CEAF2C1E195486DF00464078 /* GADAdSize.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GADAdSize.h; path = "../../../../Downloads/GoogleMobileAdsSdkiOS-6.9.3/GADAdSize.h"; sourceTree = "<group>"; };
+		CEAF2C1F195486DF00464078 /* GADBannerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GADBannerView.h; path = "../../../../Downloads/GoogleMobileAdsSdkiOS-6.9.3/GADBannerView.h"; sourceTree = "<group>"; };
+		CEAF2C20195486DF00464078 /* GADBannerViewDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GADBannerViewDelegate.h; path = "../../../../Downloads/GoogleMobileAdsSdkiOS-6.9.3/GADBannerViewDelegate.h"; sourceTree = "<group>"; };
+		CEAF2C21195486DF00464078 /* GADInAppPurchase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GADInAppPurchase.h; path = "../../../../Downloads/GoogleMobileAdsSdkiOS-6.9.3/GADInAppPurchase.h"; sourceTree = "<group>"; };
+		CEAF2C22195486DF00464078 /* GADInAppPurchaseDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GADInAppPurchaseDelegate.h; path = "../../../../Downloads/GoogleMobileAdsSdkiOS-6.9.3/GADInAppPurchaseDelegate.h"; sourceTree = "<group>"; };
+		CEAF2C23195486DF00464078 /* GADInterstitial.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GADInterstitial.h; path = "../../../../Downloads/GoogleMobileAdsSdkiOS-6.9.3/GADInterstitial.h"; sourceTree = "<group>"; };
+		CEAF2C24195486DF00464078 /* GADInterstitialDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GADInterstitialDelegate.h; path = "../../../../Downloads/GoogleMobileAdsSdkiOS-6.9.3/GADInterstitialDelegate.h"; sourceTree = "<group>"; };
+		CEAF2C25195486DF00464078 /* GADModules.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GADModules.h; path = "../../../../Downloads/GoogleMobileAdsSdkiOS-6.9.3/GADModules.h"; sourceTree = "<group>"; };
+		CEAF2C26195486DF00464078 /* GADRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GADRequest.h; path = "../../../../Downloads/GoogleMobileAdsSdkiOS-6.9.3/GADRequest.h"; sourceTree = "<group>"; };
+		CEAF2C27195486DF00464078 /* GADRequestError.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GADRequestError.h; path = "../../../../Downloads/GoogleMobileAdsSdkiOS-6.9.3/GADRequestError.h"; sourceTree = "<group>"; };
+		CEAF2C28195486DF00464078 /* libGoogleAdMobAds.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libGoogleAdMobAds.a; path = "../../../../Downloads/GoogleMobileAdsSdkiOS-6.9.3/libGoogleAdMobAds.a"; sourceTree = "<group>"; };
+		CEAF2C29195486DF00464078 /* README.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = README.txt; path = "../../../../Downloads/GoogleMobileAdsSdkiOS-6.9.3/README.txt"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +452,7 @@
 				CE9166231950AAB800222C71 /* UIKit.framework in Frameworks */,
 				CE9166251950AAB800222C71 /* SpriteKit.framework in Frameworks */,
 				CE91661F1950AAB800222C71 /* Foundation.framework in Frameworks */,
+				CEAF2C2A195486DF00464078 /* libGoogleAdMobAds.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -121,15 +503,68 @@
 		CE9166261950AAB800222C71 /* Starship I */ = {
 			isa = PBXGroup;
 			children = (
-				CE91662F1950AAB800222C71 /* cosmosAppDelegate.h */,
+				CE9167741950ABED00222C71 /* greenLaserRay.png */,
+				CE9166B01950AB6100222C71 /* final */,
+				CE9166F11950AB6700222C71 /* ships */,
+				CE91665A1950AB4900222C71 /* Backgrounds 2 */,
 				CE9166301950AAB800222C71 /* cosmosAppDelegate.m */,
+				CE91662F1950AAB800222C71 /* cosmosAppDelegate.h */,
+				CE91677B1950CBAD00222C71 /* misc_explosion_element_png_by_dbszabo1-d54iy0g.png */,
+				CE9167761950AE0500222C71 /* planet 3.jpg */,
 				CE9166321950AAB800222C71 /* Main.storyboard */,
 				CE9166351950AAB800222C71 /* cosmosViewController.h */,
 				CE9166361950AAB800222C71 /* cosmosViewController.m */,
+				CEAF2BBE195121A700464078 /* SurvivalModeOne.h */,
+				CEAF2BBF195121A700464078 /* SurvivalModeOne.m */,
+				CEAF2BFA19544D8100464078 /* smtwo.h */,
+				CEAF2BFB19544D8100464078 /* smtwo.m */,
+				CEAF2BFD19544D8F00464078 /* smthree.h */,
+				CEAF2C0319544DA800464078 /* smfour.h */,
+				CEAF2C0419544DA800464078 /* smfour.m */,
+				CEAF2C0619544DB000464078 /* smfive.h */,
+				CEAF2C0719544DB000464078 /* smfive.m */,
+				CEAF2C0919544DBC00464078 /* smsix.h */,
+				CEAF2C0A19544DBC00464078 /* smsix.m */,
+				CEAF2C0C19544DC500464078 /* smseven.h */,
+				CEAF2C0D19544DC500464078 /* smseven.m */,
+				CEAF2C0F19544DCC00464078 /* smeight.h */,
+				CEAF2C1019544DCC00464078 /* smeight.m */,
+				CEAF2C1219544DD300464078 /* smnine.h */,
+				CEAF2C1319544DD300464078 /* smnine.m */,
+				CEAF2C1819545DFB00464078 /* Lazer sound effect.wav */,
+				CEAF2C1519544DDF00464078 /* smten.h */,
+				CEAF2C1619544DDF00464078 /* smten.m */,
+				CEAF2BFE19544D8F00464078 /* smthree.m */,
 				CE9166381950AAB800222C71 /* cosmosMyScene.h */,
 				CE9166391950AAB800222C71 /* cosmosMyScene.m */,
+				CEAF2BC219520FAC00464078 /* levelTransition.m */,
+				CEAF2BC4195214FB00464078 /* levelTwo.h */,
+				CEAF2BC5195214FB00464078 /* levelTwo.m */,
+				CEAF2BC719521BB500464078 /* levelthree.h */,
+				CEAF2BC819521BB500464078 /* levelthree.m */,
+				CEAF2C1B195486C100464078 /* Ads */,
+				CEAF2BCA19521BC700464078 /* levelfour.h */,
+				CEAF2BCB19521BC700464078 /* levelfour.m */,
+				CEAF2BCD19521BCF00464078 /* levelfive.h */,
+				CEAF2BCE19521BCF00464078 /* levelfive.m */,
+				CEAF2BD019521BD900464078 /* levelsix.h */,
+				CEAF2BD119521BD900464078 /* levelsix.m */,
+				CEAF2BDF19531EAC00464078 /* planet 2 boss.png */,
+				CEAF2BD319521C1E00464078 /* levelseven.h */,
+				CEAF2BD419521C1E00464078 /* levelseven.m */,
+				CEAF2BD619521C2900464078 /* leveleight.h */,
+				CEAF2BD719521C2900464078 /* leveleight.m */,
+				CEAF2BD919521C3F00464078 /* levelnine.h */,
+				CEAF2BDA19521C3F00464078 /* levelnine.m */,
+				CEAF2BDC19521C5400464078 /* levelten.h */,
+				CEAF2BE119531EB400464078 /* planet 6 boss.png */,
+				CEAF2BDD19521C5400464078 /* levelten.m */,
+				CE9167781950BFAF00222C71 /* cosmosPAUSE.h */,
+				CE9167791950BFAF00222C71 /* cosmosPAUSE.m */,
+				CEAF2BC119520FAC00464078 /* levelTransition.h */,
 				CE91663B1950AAB800222C71 /* Spaceship.png */,
 				CE91663D1950AAB800222C71 /* Images.xcassets */,
+				CE9167951950D77C00222C71 /* ios7 */,
 				CE9166271950AAB800222C71 /* Supporting Files */,
 			);
 			path = "Starship I";
@@ -162,6 +597,298 @@
 				CE91664D1950AAB800222C71 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		CE91665A1950AB4900222C71 /* Backgrounds 2 */ = {
+			isa = PBXGroup;
+			children = (
+				CE91665B1950AB4900222C71 /* Planet 1 */,
+				CE91665F1950AB4900222C71 /* Planet 10 */,
+				CE9166631950AB4900222C71 /* Planet 2 */,
+				CE9166671950AB4900222C71 /* Planet 3 */,
+				CE91666B1950AB4900222C71 /* Planet 4 */,
+				CE91666F1950AB4900222C71 /* Planet 5 */,
+				CE9166731950AB4900222C71 /* Planet 6 */,
+				CE9166771950AB4900222C71 /* Planet 7 */,
+				CE91667B1950AB4900222C71 /* Planet 8 */,
+				CE91667F1950AB4900222C71 /* Planet 9 */,
+				CE9166831950AB4900222C71 /* Thumbs.db */,
+			);
+			path = "Backgrounds 2";
+			sourceTree = "<group>";
+		};
+		CE91665B1950AB4900222C71 /* Planet 1 */ = {
+			isa = PBXGroup;
+			children = (
+				CE91665C1950AB4900222C71 /* backgroundscc1.png */,
+				CE91665D1950AB4900222C71 /* planetoo1.png */,
+				CE91665E1950AB4900222C71 /* Thumbs.db */,
+			);
+			path = "Planet 1";
+			sourceTree = "<group>";
+		};
+		CE91665F1950AB4900222C71 /* Planet 10 */ = {
+			isa = PBXGroup;
+			children = (
+				CE9166601950AB4900222C71 /* background 10.png */,
+				CE9166611950AB4900222C71 /* Planet 10.png */,
+				CE9166621950AB4900222C71 /* Thumbs.db */,
+			);
+			path = "Planet 10";
+			sourceTree = "<group>";
+		};
+		CE9166631950AB4900222C71 /* Planet 2 */ = {
+			isa = PBXGroup;
+			children = (
+				CE9166641950AB4900222C71 /* background 2.png */,
+				CE9166651950AB4900222C71 /* Planet 2.png */,
+				CE9166661950AB4900222C71 /* Thumbs.db */,
+			);
+			path = "Planet 2";
+			sourceTree = "<group>";
+		};
+		CE9166671950AB4900222C71 /* Planet 3 */ = {
+			isa = PBXGroup;
+			children = (
+				CE9166681950AB4900222C71 /* background 3.png */,
+				CE9166691950AB4900222C71 /* planet 3.png */,
+				CE91666A1950AB4900222C71 /* Thumbs.db */,
+			);
+			path = "Planet 3";
+			sourceTree = "<group>";
+		};
+		CE91666B1950AB4900222C71 /* Planet 4 */ = {
+			isa = PBXGroup;
+			children = (
+				CE91666C1950AB4900222C71 /* background 4.png */,
+				CE91666D1950AB4900222C71 /* Planet 4.png */,
+				CE91666E1950AB4900222C71 /* Thumbs.db */,
+			);
+			path = "Planet 4";
+			sourceTree = "<group>";
+		};
+		CE91666F1950AB4900222C71 /* Planet 5 */ = {
+			isa = PBXGroup;
+			children = (
+				CE9166701950AB4900222C71 /* background 5.png */,
+				CE9166711950AB4900222C71 /* Planet 5.png */,
+				CE9166721950AB4900222C71 /* Thumbs.db */,
+			);
+			path = "Planet 5";
+			sourceTree = "<group>";
+		};
+		CE9166731950AB4900222C71 /* Planet 6 */ = {
+			isa = PBXGroup;
+			children = (
+				CE9166741950AB4900222C71 /* background 6.png */,
+				CE9166751950AB4900222C71 /* Planet 6.png */,
+				CE9166761950AB4900222C71 /* Thumbs.db */,
+			);
+			path = "Planet 6";
+			sourceTree = "<group>";
+		};
+		CE9166771950AB4900222C71 /* Planet 7 */ = {
+			isa = PBXGroup;
+			children = (
+				CE9166781950AB4900222C71 /* background 7.png */,
+				CE9166791950AB4900222C71 /* Planet 7.png */,
+				CE91667A1950AB4900222C71 /* Thumbs.db */,
+			);
+			path = "Planet 7";
+			sourceTree = "<group>";
+		};
+		CE91667B1950AB4900222C71 /* Planet 8 */ = {
+			isa = PBXGroup;
+			children = (
+				CE91667C1950AB4900222C71 /* background 8.png */,
+				CE91667D1950AB4900222C71 /* Planet 8.png */,
+				CE91667E1950AB4900222C71 /* Thumbs.db */,
+			);
+			path = "Planet 8";
+			sourceTree = "<group>";
+		};
+		CE91667F1950AB4900222C71 /* Planet 9 */ = {
+			isa = PBXGroup;
+			children = (
+				CE9166801950AB4900222C71 /* background 9.png */,
+				CE9166811950AB4900222C71 /* Planet 9.png */,
+				CE9166821950AB4900222C71 /* Thumbs.db */,
+			);
+			path = "Planet 9";
+			sourceTree = "<group>";
+		};
+		CE9166B01950AB6100222C71 /* final */ = {
+			isa = PBXGroup;
+			children = (
+				CE9166B11950AB6100222C71 /* bosses */,
+				CE9166B91950AB6100222C71 /* Graphics */,
+			);
+			name = final;
+			path = bosses/final;
+			sourceTree = "<group>";
+		};
+		CE9166B11950AB6100222C71 /* bosses */ = {
+			isa = PBXGroup;
+			children = (
+				CE9166B21950AB6100222C71 /* planet 1 boss.png */,
+				CE9166B41950AB6100222C71 /* Planet 7 boss jaw movements.png */,
+				CE9166B51950AB6100222C71 /* planet 7 boss.png */,
+				CE9166B61950AB6100222C71 /* planet 9 boss.png */,
+				CE9166B71950AB6100222C71 /* planet7jaw.png */,
+				CE9166B81950AB6100222C71 /* Thumbs.db */,
+			);
+			path = bosses;
+			sourceTree = "<group>";
+		};
+		CE9166B91950AB6100222C71 /* Graphics */ = {
+			isa = PBXGroup;
+			children = (
+				CE9166BA1950AB6100222C71 /* auto-target perk.png */,
+				CE9166BB1950AB6100222C71 /* blow.jpg */,
+				CE9166BC1950AB6100222C71 /* coin.jpg */,
+				CE9166BD1950AB6100222C71 /* explosions.png */,
+				CE9166BE1950AB6100222C71 /* Fonts to use.txt */,
+				CE9166BF1950AB6100222C71 /* ground.png */,
+				CE9166C01950AB6100222C71 /* infinity symbol.png */,
+				CE9166C11950AB6100222C71 /* life symbol.png */,
+				CEAF2BE71954318200464078 /* Coin-icon.png */,
+				CE9166C21950AB6100222C71 /* main ship.png */,
+				CE9166C31950AB6100222C71 /* missile perk.png */,
+				CE9166C41950AB6100222C71 /* nuke perk.png */,
+				CE9166C51950AB6100222C71 /* pause menu.png */,
+				CE9166C61950AB6100222C71 /* planet 1 background.jpg */,
+				CE9166C71950AB6100222C71 /* planet 1 captains.png */,
+				CE9166C81950AB6100222C71 /* planet 1 destroyers.png */,
+				CEAF2BE519534B4300464078 /* fire_ball_png_by_dbszabo1-d515um9.png */,
+				CE9166C91950AB6100222C71 /* planet 1 guards.png */,
+				CE9166CA1950AB6100222C71 /* planet 1 soldiers.png */,
+				CEAF2BE319534AE500464078 /* 4A8_Fireball1_GD.png */,
+				CE9166CB1950AB6100222C71 /* planet 1.png */,
+				CE9166CC1950AB6100222C71 /* Red_laser.png */,
+				CE9166CD1950AB6100222C71 /* Rock.png */,
+				CE9166CE1950AB6100222C71 /* select.png */,
+				CE9166CF1950AB6100222C71 /* shield.png */,
+				CE9166D01950AB6100222C71 /* support ship.png */,
+				CE9166D11950AB6100222C71 /* Thumbs.db */,
+			);
+			path = Graphics;
+			sourceTree = "<group>";
+		};
+		CE9166F11950AB6700222C71 /* ships */ = {
+			isa = PBXGroup;
+			children = (
+				CE9166F21950AB6700222C71 /* archmenar (ultimate ship).jpg */,
+				CE9166F31950AB6700222C71 /* auto-target perk.png */,
+				CE9166F41950AB6700222C71 /* coin.jpg */,
+				CE9166F51950AB6700222C71 /* explosions.png */,
+				CE9166F61950AB6700222C71 /* Fonts to use.txt */,
+				CE9166F71950AB6700222C71 /* ground.png */,
+				CE9166F81950AB6700222C71 /* infinity symbol.png */,
+				CE9166F91950AB6700222C71 /* life symbol.png */,
+				CE9166FA1950AB6700222C71 /* main ship 1.png */,
+				CE9166FB1950AB6700222C71 /* main ship 2.png */,
+				CE9166FC1950AB6700222C71 /* main ship 3.png */,
+				CE9166FD1950AB6700222C71 /* main ship 4.png */,
+				CE9166FE1950AB6700222C71 /* main ship.png */,
+				CE9166FF1950AB6700222C71 /* main support ship.png */,
+				CE9167001950AB6700222C71 /* missile perk.png */,
+				CE9167011950AB6700222C71 /* nuke perk.png */,
+				CE9167021950AB6700222C71 /* pause menu.png */,
+				CE9167031950AB6700222C71 /* planet 1 background.jpg */,
+				CE9167041950AB6700222C71 /* planet 1 captains.png */,
+				CE9167051950AB6700222C71 /* planet 1 destroyers.png */,
+				CE9167061950AB6700222C71 /* planet 1 guards.png */,
+				CE9167071950AB6700222C71 /* planet 1 soldiers.png */,
+				CE9167081950AB6700222C71 /* planet 1.png */,
+				CE9167091950AB6700222C71 /* planet 10 captains.png */,
+				CE91670A1950AB6700222C71 /* planet 10 destroyers.png */,
+				CE91670B1950AB6700222C71 /* planet 10 guards.png */,
+				CE91670C1950AB6700222C71 /* planet 10 soldiers.png */,
+				CE91670D1950AB6700222C71 /* planet 2 captains.png */,
+				CE91670E1950AB6700222C71 /* planet 2 destroyers.png */,
+				CE91670F1950AB6700222C71 /* planet 2 guards.png */,
+				CE9167101950AB6700222C71 /* planet 2 soldiers.png */,
+				CE9167111950AB6700222C71 /* planet 3 captains.png */,
+				CE9167121950AB6700222C71 /* planet 3 destroyers.png */,
+				CE9167131950AB6700222C71 /* planet 3 guards.png */,
+				CE9167141950AB6700222C71 /* planet 3 soldiers.png */,
+				CE9167151950AB6700222C71 /* planet 4 captains.png */,
+				CE9167161950AB6700222C71 /* planet 4 destroyers.png */,
+				CE9167171950AB6700222C71 /* planet 4 guards.png */,
+				CE9167181950AB6700222C71 /* planet 4 soldiers.png */,
+				CE9167191950AB6700222C71 /* planet 5 captains.png */,
+				CE91671A1950AB6700222C71 /* planet 5 destroyers.png */,
+				CE91671B1950AB6700222C71 /* planet 5 guards.png */,
+				CE91671C1950AB6700222C71 /* planet 5 soldiers.png */,
+				CE91671D1950AB6700222C71 /* planet 6 captains.png */,
+				CE91671E1950AB6700222C71 /* planet 6 destroyers.png */,
+				CE91671F1950AB6700222C71 /* planet 6 guards.png */,
+				CE9167201950AB6700222C71 /* planet 6 soldiers.png */,
+				CE9167211950AB6700222C71 /* planet 7 captains.png */,
+				CE9167221950AB6700222C71 /* planet 7 destroyers.png */,
+				CE9167231950AB6700222C71 /* planet 7 guards.png */,
+				CE9167241950AB6700222C71 /* planet 7 soldiers.png */,
+				CE9167251950AB6700222C71 /* planet 8 captains.png */,
+				CE9167261950AB6700222C71 /* planet 8 destroyers.png */,
+				CE9167271950AB6700222C71 /* planet 8 guards.png */,
+				CE9167281950AB6700222C71 /* planet 8 soldiers.png */,
+				CE9167291950AB6700222C71 /* planet 9 captains.png */,
+				CE91672A1950AB6700222C71 /* planet 9 destroyers.png */,
+				CE91672B1950AB6700222C71 /* planet 9 guards.png */,
+				CE91672C1950AB6700222C71 /* planet 9 soldiers.png */,
+				CE91672D1950AB6700222C71 /* Red_laser.png */,
+				CE91672E1950AB6700222C71 /* Rock.png */,
+				CE91672F1950AB6700222C71 /* select.png */,
+				CE9167301950AB6700222C71 /* shield.png */,
+				CE9167311950AB6700222C71 /* support ship.png */,
+				CE9167321950AB6700222C71 /* Thumbs.db */,
+			);
+			path = ships;
+			sourceTree = "<group>";
+		};
+		CE9167951950D77C00222C71 /* ios7 */ = {
+			isa = PBXGroup;
+			children = (
+				CE9167961950D77C00222C71 /* Icon-40.png */,
+				CE9167971950D77C00222C71 /* Icon-40@2x.png */,
+				CE9167981950D77C00222C71 /* Icon-60.png */,
+				CE9167991950D77C00222C71 /* Icon-72.png */,
+				CE91679A1950D77C00222C71 /* Icon-60@2x.png */,
+				CE91679B1950D77C00222C71 /* Icon-72@2x.png */,
+				CE91679C1950D77C00222C71 /* Icon-76.png */,
+				CE91679D1950D77C00222C71 /* Icon-76@2x.png */,
+				CE91679E1950D77C00222C71 /* Icon-Small-50.png */,
+				CE91679F1950D77C00222C71 /* Icon-Small-50@2x.png */,
+				CE9167A01950D77C00222C71 /* Icon-Small.png */,
+				CE9167A11950D77C00222C71 /* Icon-Small@2x.png */,
+				CE9167A21950D77C00222C71 /* Icon.png */,
+				CE9167A31950D77C00222C71 /* Icon@2x.png */,
+				CE9167A41950D77C00222C71 /* iTunesArtwork.png */,
+				CE9167A51950D77C00222C71 /* iTunesArtwork@2x.png */,
+			);
+			name = ios7;
+			path = icon/ios7;
+			sourceTree = "<group>";
+		};
+		CEAF2C1B195486C100464078 /* Ads */ = {
+			isa = PBXGroup;
+			children = (
+				CEAF2C1C195486DF00464078 /* GADAdMobExtras.h */,
+				CEAF2C1D195486DF00464078 /* GADAdNetworkExtras.h */,
+				CEAF2C1E195486DF00464078 /* GADAdSize.h */,
+				CEAF2C1F195486DF00464078 /* GADBannerView.h */,
+				CEAF2C20195486DF00464078 /* GADBannerViewDelegate.h */,
+				CEAF2C21195486DF00464078 /* GADInAppPurchase.h */,
+				CEAF2C22195486DF00464078 /* GADInAppPurchaseDelegate.h */,
+				CEAF2C23195486DF00464078 /* GADInterstitial.h */,
+				CEAF2C24195486DF00464078 /* GADInterstitialDelegate.h */,
+				CEAF2C25195486DF00464078 /* GADModules.h */,
+				CEAF2C26195486DF00464078 /* GADRequest.h */,
+				CEAF2C27195486DF00464078 /* GADRequestError.h */,
+				CEAF2C28195486DF00464078 /* libGoogleAdMobAds.a */,
+				CEAF2C29195486DF00464078 /* README.txt */,
+			);
+			name = Ads;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -212,6 +939,9 @@
 				LastUpgradeCheck = 0500;
 				ORGANIZATIONNAME = "My World Entertainment LLC";
 				TargetAttributes = {
+					CE91661A1950AAB800222C71 = {
+						DevelopmentTeam = 773VK78J52;
+					};
 					CE9166421950AAB800222C71 = {
 						TestTargetID = CE91661A1950AAB800222C71;
 					};
@@ -241,10 +971,162 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE9167511950AB6700222C71 /* planet 2 soldiers.png in Resources */,
+				CE9166D81950AB6100222C71 /* Thumbs.db in Resources */,
+				CE9166E81950AB6100222C71 /* planet 1 guards.png in Resources */,
+				CE9166EC1950AB6100222C71 /* Rock.png in Resources */,
+				CE91675A1950AB6700222C71 /* planet 5 captains.png in Resources */,
+				CE9166DA1950AB6100222C71 /* blow.jpg in Resources */,
+				CE9167471950AB6700222C71 /* planet 1 guards.png in Resources */,
+				CE9167661950AB6700222C71 /* planet 8 captains.png in Resources */,
+				CE9167581950AB6700222C71 /* planet 4 guards.png in Resources */,
+				CE91673F1950AB6700222C71 /* main ship.png in Resources */,
+				CE9167C11950D77C00222C71 /* Icon-Small@2x.png in Resources */,
+				CE9167721950AB6700222C71 /* support ship.png in Resources */,
+				CE9166DD1950AB6100222C71 /* Fonts to use.txt in Resources */,
+				CE91668F1950AB4A00222C71 /* Thumbs.db in Resources */,
+				CE9166EA1950AB6100222C71 /* planet 1.png in Resources */,
+				CE9167481950AB6700222C71 /* planet 1 soldiers.png in Resources */,
+				CE9166971950AB4A00222C71 /* Planet 6.png in Resources */,
+				CE9167491950AB6700222C71 /* planet 1.png in Resources */,
+				CE9167391950AB6700222C71 /* infinity symbol.png in Resources */,
+				CE9166E61950AB6100222C71 /* planet 1 captains.png in Resources */,
 				CE91662B1950AAB800222C71 /* InfoPlist.strings in Resources */,
+				CE9166D61950AB6100222C71 /* planet 9 boss.png in Resources */,
+				CE9166DC1950AB6100222C71 /* explosions.png in Resources */,
+				CE9166D21950AB6100222C71 /* planet 1 boss.png in Resources */,
+				CE91675B1950AB6700222C71 /* planet 5 destroyers.png in Resources */,
+				CE9167BE1950D77C00222C71 /* Icon-Small-50.png in Resources */,
+				CE9167411950AB6700222C71 /* missile perk.png in Resources */,
+				CE9167351950AB6700222C71 /* coin.jpg in Resources */,
+				CE9167571950AB6700222C71 /* planet 4 destroyers.png in Resources */,
+				CE9167771950AE0500222C71 /* planet 3.jpg in Resources */,
+				CE9167631950AB6700222C71 /* planet 7 destroyers.png in Resources */,
+				CE91674F1950AB6700222C71 /* planet 2 destroyers.png in Resources */,
+				CE9167361950AB6700222C71 /* explosions.png in Resources */,
+				CE91668B1950AB4A00222C71 /* Planet 2.png in Resources */,
 				CE91663E1950AAB800222C71 /* Images.xcassets in Resources */,
+				CE9166941950AB4A00222C71 /* Planet 5.png in Resources */,
+				CE9167591950AB6700222C71 /* planet 4 soldiers.png in Resources */,
+				CE9167601950AB6700222C71 /* planet 6 guards.png in Resources */,
+				CE9167C51950D77C00222C71 /* iTunesArtwork@2x.png in Resources */,
+				CE9166991950AB4A00222C71 /* background 7.png in Resources */,
+				CE91673B1950AB6700222C71 /* main ship 1.png in Resources */,
+				CE9166E71950AB6100222C71 /* planet 1 destroyers.png in Resources */,
+				CE9167C01950D77C00222C71 /* Icon-Small.png in Resources */,
+				CE9167BA1950D77C00222C71 /* Icon-60@2x.png in Resources */,
+				CE9167551950AB6700222C71 /* planet 3 soldiers.png in Resources */,
+				CE9167441950AB6700222C71 /* planet 1 background.jpg in Resources */,
+				CE9166ED1950AB6100222C71 /* select.png in Resources */,
+				CE9167671950AB6700222C71 /* planet 8 destroyers.png in Resources */,
+				CE9166881950AB4A00222C71 /* Planet 10.png in Resources */,
+				CE9167BC1950D77C00222C71 /* Icon-76.png in Resources */,
+				CE91674A1950AB6700222C71 /* planet 10 captains.png in Resources */,
+				CE91675F1950AB6700222C71 /* planet 6 destroyers.png in Resources */,
+				CE9167BD1950D77C00222C71 /* Icon-76@2x.png in Resources */,
+				CE91668A1950AB4A00222C71 /* background 2.png in Resources */,
+				CE9167431950AB6700222C71 /* pause menu.png in Resources */,
+				CE9167561950AB6700222C71 /* planet 4 captains.png in Resources */,
+				CE9166F01950AB6100222C71 /* Thumbs.db in Resources */,
+				CE9166E51950AB6100222C71 /* planet 1 background.jpg in Resources */,
+				CE9166E11950AB6100222C71 /* main ship.png in Resources */,
+				CE9166DE1950AB6100222C71 /* ground.png in Resources */,
+				CE9167381950AB6700222C71 /* ground.png in Resources */,
+				CE9166851950AB4A00222C71 /* planetoo1.png in Resources */,
+				CE91673E1950AB6700222C71 /* main ship 4.png in Resources */,
+				CE91668C1950AB4A00222C71 /* Thumbs.db in Resources */,
+				CE91669E1950AB4A00222C71 /* Thumbs.db in Resources */,
+				CE9167611950AB6700222C71 /* planet 6 soldiers.png in Resources */,
+				CE9166931950AB4A00222C71 /* background 5.png in Resources */,
+				CE9167691950AB6700222C71 /* planet 8 soldiers.png in Resources */,
+				CE9166E01950AB6100222C71 /* life symbol.png in Resources */,
+				CE9166A01950AB4A00222C71 /* Planet 9.png in Resources */,
+				CE9167B61950D77C00222C71 /* Icon-40.png in Resources */,
+				CEAF2BE419534AE500464078 /* 4A8_Fireball1_GD.png in Resources */,
+				CE9166EB1950AB6100222C71 /* Red_laser.png in Resources */,
+				CE9167421950AB6700222C71 /* nuke perk.png in Resources */,
+				CE9167B91950D77C00222C71 /* Icon-72.png in Resources */,
+				CE9166D41950AB6100222C71 /* Planet 7 boss jaw movements.png in Resources */,
+				CE9166A11950AB4A00222C71 /* Thumbs.db in Resources */,
+				CEAF2BE81954318200464078 /* Coin-icon.png in Resources */,
+				CE9166951950AB4A00222C71 /* Thumbs.db in Resources */,
+				CE91676C1950AB6700222C71 /* planet 9 guards.png in Resources */,
+				CEAF2BE219531EB400464078 /* planet 6 boss.png in Resources */,
+				CE91669D1950AB4A00222C71 /* Planet 8.png in Resources */,
+				CE9166E41950AB6100222C71 /* pause menu.png in Resources */,
+				CE9167681950AB6700222C71 /* planet 8 guards.png in Resources */,
+				CE91674E1950AB6700222C71 /* planet 2 captains.png in Resources */,
+				CE91674B1950AB6700222C71 /* planet 10 destroyers.png in Resources */,
+				CE9167501950AB6700222C71 /* planet 2 guards.png in Resources */,
+				CE91675D1950AB6700222C71 /* planet 5 soldiers.png in Resources */,
+				CE9167341950AB6700222C71 /* auto-target perk.png in Resources */,
+				CE9167331950AB6700222C71 /* archmenar (ultimate ship).jpg in Resources */,
+				CE91669A1950AB4A00222C71 /* Planet 7.png in Resources */,
+				CE9167B71950D77C00222C71 /* Icon-40@2x.png in Resources */,
+				CEAF2BE619534B4300464078 /* fire_ball_png_by_dbszabo1-d515um9.png in Resources */,
+				CE9167451950AB6700222C71 /* planet 1 captains.png in Resources */,
+				CEAF2C2B195486DF00464078 /* README.txt in Resources */,
+				CE9167751950ABED00222C71 /* greenLaserRay.png in Resources */,
+				CE9167641950AB6700222C71 /* planet 7 guards.png in Resources */,
+				CE9166861950AB4A00222C71 /* Thumbs.db in Resources */,
+				CE9167731950AB6700222C71 /* Thumbs.db in Resources */,
+				CE91676D1950AB6700222C71 /* planet 9 soldiers.png in Resources */,
+				CE9167C21950D77C00222C71 /* Icon.png in Resources */,
 				CE91663C1950AAB800222C71 /* Spaceship.png in Resources */,
+				CEAF2BE019531EAC00464078 /* planet 2 boss.png in Resources */,
+				CEAF2C1919545DFB00464078 /* Lazer sound effect.wav in Resources */,
+				CE9166891950AB4A00222C71 /* Thumbs.db in Resources */,
+				CE9166921950AB4A00222C71 /* Thumbs.db in Resources */,
+				CE9167711950AB6700222C71 /* shield.png in Resources */,
+				CE91676A1950AB6700222C71 /* planet 9 captains.png in Resources */,
+				CE91668D1950AB4A00222C71 /* background 3.png in Resources */,
+				CE91674C1950AB6700222C71 /* planet 10 guards.png in Resources */,
+				CE9166871950AB4A00222C71 /* background 10.png in Resources */,
+				CE9167651950AB6700222C71 /* planet 7 soldiers.png in Resources */,
+				CE91673A1950AB6700222C71 /* life symbol.png in Resources */,
+				CE9166D91950AB6100222C71 /* auto-target perk.png in Resources */,
+				CE9166E31950AB6100222C71 /* nuke perk.png in Resources */,
+				CE9167B81950D77C00222C71 /* Icon-60.png in Resources */,
+				CE9167461950AB6700222C71 /* planet 1 destroyers.png in Resources */,
+				CE9167531950AB6700222C71 /* planet 3 destroyers.png in Resources */,
+				CE9166DB1950AB6100222C71 /* coin.jpg in Resources */,
+				CE9166911950AB4A00222C71 /* Planet 4.png in Resources */,
+				CE9166841950AB4A00222C71 /* backgroundscc1.png in Resources */,
+				CE9167621950AB6700222C71 /* planet 7 captains.png in Resources */,
+				CE9167BF1950D77C00222C71 /* Icon-Small-50@2x.png in Resources */,
+				CE91676F1950AB6700222C71 /* Rock.png in Resources */,
+				CE91676E1950AB6700222C71 /* Red_laser.png in Resources */,
+				CE9167521950AB6700222C71 /* planet 3 captains.png in Resources */,
+				CE9166901950AB4A00222C71 /* background 4.png in Resources */,
+				CE9166981950AB4A00222C71 /* Thumbs.db in Resources */,
+				CE9166EF1950AB6100222C71 /* support ship.png in Resources */,
+				CE91677C1950CBAD00222C71 /* misc_explosion_element_png_by_dbszabo1-d54iy0g.png in Resources */,
+				CE9166E21950AB6100222C71 /* missile perk.png in Resources */,
+				CE9167C41950D77C00222C71 /* iTunesArtwork.png in Resources */,
+				CE91669B1950AB4A00222C71 /* Thumbs.db in Resources */,
+				CE91673C1950AB6700222C71 /* main ship 2.png in Resources */,
 				CE9166341950AAB800222C71 /* Main.storyboard in Resources */,
+				CE9166EE1950AB6100222C71 /* shield.png in Resources */,
+				CE91669F1950AB4A00222C71 /* background 9.png in Resources */,
+				CE9166A21950AB4A00222C71 /* Thumbs.db in Resources */,
+				CE91668E1950AB4A00222C71 /* planet 3.png in Resources */,
+				CE9166D71950AB6100222C71 /* planet7jaw.png in Resources */,
+				CE9167371950AB6700222C71 /* Fonts to use.txt in Resources */,
+				CE91675E1950AB6700222C71 /* planet 6 captains.png in Resources */,
+				CE9166E91950AB6100222C71 /* planet 1 soldiers.png in Resources */,
+				CE91675C1950AB6700222C71 /* planet 5 guards.png in Resources */,
+				CE91674D1950AB6700222C71 /* planet 10 soldiers.png in Resources */,
+				CE9166D51950AB6100222C71 /* planet 7 boss.png in Resources */,
+				CE91673D1950AB6700222C71 /* main ship 3.png in Resources */,
+				CE91676B1950AB6700222C71 /* planet 9 destroyers.png in Resources */,
+				CE9167541950AB6700222C71 /* planet 3 guards.png in Resources */,
+				CE9167C31950D77C00222C71 /* Icon@2x.png in Resources */,
+				CE9167401950AB6700222C71 /* main support ship.png in Resources */,
+				CE91669C1950AB4A00222C71 /* background 8.png in Resources */,
+				CE9167701950AB6700222C71 /* select.png in Resources */,
+				CE9167BB1950D77C00222C71 /* Icon-72@2x.png in Resources */,
+				CE9166DF1950AB6100222C71 /* infinity symbol.png in Resources */,
+				CE9166961950AB4A00222C71 /* background 6.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -263,10 +1145,31 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CEAF2C0B19544DBC00464078 /* smsix.m in Sources */,
 				CE9166371950AAB800222C71 /* cosmosViewController.m in Sources */,
+				CEAF2C0819544DB000464078 /* smfive.m in Sources */,
 				CE9166311950AAB800222C71 /* cosmosAppDelegate.m in Sources */,
+				CE91677A1950BFAF00222C71 /* cosmosPAUSE.m in Sources */,
 				CE91663A1950AAB800222C71 /* cosmosMyScene.m in Sources */,
+				CEAF2BDE19521C5400464078 /* levelten.m in Sources */,
+				CEAF2C1719544DDF00464078 /* smten.m in Sources */,
+				CEAF2C1119544DCC00464078 /* smeight.m in Sources */,
+				CEAF2BD519521C1E00464078 /* levelseven.m in Sources */,
+				CEAF2BCC19521BC700464078 /* levelfour.m in Sources */,
+				CEAF2BC919521BB500464078 /* levelthree.m in Sources */,
+				CEAF2BFC19544D8100464078 /* smtwo.m in Sources */,
+				CEAF2BDB19521C3F00464078 /* levelnine.m in Sources */,
+				CEAF2C1419544DD300464078 /* smnine.m in Sources */,
+				CEAF2BFF19544D8F00464078 /* smthree.m in Sources */,
 				CE91662D1950AAB800222C71 /* main.m in Sources */,
+				CEAF2C0519544DA800464078 /* smfour.m in Sources */,
+				CEAF2BC0195121A700464078 /* SurvivalModeOne.m in Sources */,
+				CEAF2BCF19521BCF00464078 /* levelfive.m in Sources */,
+				CEAF2C0E19544DC500464078 /* smseven.m in Sources */,
+				CEAF2BD819521C2900464078 /* leveleight.m in Sources */,
+				CEAF2BD219521BD900464078 /* levelsix.m in Sources */,
+				CEAF2BC319520FAC00464078 /* levelTransition.m in Sources */,
+				CEAF2BC6195214FB00464078 /* levelTwo.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -393,10 +1296,18 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Austin Hatem (773VK78J52)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Starship I/Starship I-Prefix.pch";
 				INFOPLIST_FILE = "Starship I/Starship I-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"/Users/user/Documents/starshipmaster/Starship\\ I/Starship\\ I",
+					"/Users/user/Downloads/GoogleMobileAdsSdkiOS-6.9.3",
+				);
+				"OTHER_LDFLAGS[arch=*]" = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "6EC50B13-B021-498A-825E-A55427640436";
 				SPRITEKIT_TEXTURE_ATLAS_OUTPUT = YES;
 				WRAPPER_EXTENSION = app;
 			};
@@ -407,10 +1318,18 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Austin Hatem (773VK78J52)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Starship I/Starship I-Prefix.pch";
 				INFOPLIST_FILE = "Starship I/Starship I-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"/Users/user/Documents/starshipmaster/Starship\\ I/Starship\\ I",
+					"/Users/user/Downloads/GoogleMobileAdsSdkiOS-6.9.3",
+				);
+				"OTHER_LDFLAGS[arch=*]" = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "6EC50B13-B021-498A-825E-A55427640436";
 				SPRITEKIT_TEXTURE_ATLAS_OUTPUT = YES;
 				WRAPPER_EXTENSION = app;
 			};
@@ -477,6 +1396,7 @@
 				CE9166561950AAB800222C71 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CE9166571950AAB800222C71 /* Build configuration list for PBXNativeTarget "Starship ITests" */ = {
 			isa = XCConfigurationList;
@@ -485,6 +1405,7 @@
 				CE9166591950AAB800222C71 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
